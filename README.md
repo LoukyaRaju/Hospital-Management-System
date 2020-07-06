@@ -1,0 +1,2 @@
+# Hospital-Management-System
+This is a case study issued by TCS as a part of their Xplore Program. The project is developed using the MVC architecture/framework. The main goal of this project is to manage details of the patients by enabling multiple operations for admission desk executive, pharmacist and diagnostics executive who are key contributors of the data and responsible for its management.
